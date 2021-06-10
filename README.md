@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Project live URL: https://shivanigupta02.github.io/xt-spacex-react/
+
 ## Available Scripts
 
 In the project directory, you can run:

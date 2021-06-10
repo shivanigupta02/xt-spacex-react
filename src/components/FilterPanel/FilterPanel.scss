@@ -1,0 +1,25 @@
+@import "../../index.scss";
+.xt {
+  &-filters {
+    padding: 15px;
+    background-color: #fff;
+    border-radius: 6px;
+    box-sizing: border-box;
+
+    width: auto;
+    height: auto;
+    margin-top: 8px;
+    margin-left: 0;
+    margin-right: 8px;
+    @media screen and (min-width: 700px) {
+      width: 100%;
+      max-width: rem-calc(178);
+    }
+
+    &-heading {
+      font-weight: 700;
+      font-size: 18px;
+      margin-bottom: 10px;
+    }
+  }
+}
